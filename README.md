@@ -1,4 +1,4 @@
-# Aniko
+# AnimeDB | Anime Search Engine
 
 An Anime and Manga Search List built with [VueJS](https://vuejs.org/) and [TailwindCSS](https://tailwindcss.com/) powered by the [Anilist API](https://anilist.gitbook.io/anilist-apiv2-docs/).
 
@@ -7,4 +7,4 @@ If you like my projects, you can also [buy me a coffee!](https://www.buymeacoffe
 
 ## Live Demo
 
-- [_here_](http://ani-ko.netlify.app/)
+- [_here_](https://animedb-vue-app.netlify.app/)
