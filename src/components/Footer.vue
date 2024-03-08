@@ -11,7 +11,7 @@
             >@parthamk</a
           ></span
         >
-        © 2022
+        © 2024
       </h3>
     </div>
   </div>
